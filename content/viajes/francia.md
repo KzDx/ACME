@@ -20,3 +20,6 @@ Cualquier excusa es buena para viajar a París, tanto su cercanía con España, 
 Antes de viajar te sugerimos que comiences informándote sobre la historia de París y algunos datos prácticos que pueden ser de utilidad.
 
 Tras conocer los lugares más interesantes de París, los principales museos, las mejores zonas para alojarse y los platos más típicos, sólo falta hacer las maletas y prepararse para disfrutar de una de las ciudades más románticas del mundo.
+
+
+{{< iframe2 >}}

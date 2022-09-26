@@ -8,6 +8,8 @@ draft: false
 
 ![d](https://volemos.nyc3.digitaloceanspaces.com/blog/wp-content/uploads/2019/03/Portada_7maravillas.jpg)
 
-+ [**Ecuador**](/viajes/ecuador/)
-+ [**Francia**](/viajes/francia/)
-+ [**Italia**](/viajes/italia/)
+> + [**Ecuador**](/viajes/ecuador/)
+> + [**Francia**](/viajes/francia/)
+> + [**Italia**](/viajes/italia/)
+
+{{< iframe2 >}}

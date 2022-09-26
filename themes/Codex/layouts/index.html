@@ -1,12 +1,14 @@
 {{ define "styles" }}
-    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
+{{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
 {{ end }}
 
 {{ define "main" }}
-
+<header> <img src="https://www.entornoturistico.com/wp-content/uploads/2016/03/turismo.jpg" height="500" width="100%">
+  <h1>{{ .Params.heading }}<span class="fancy">TURISMO</span></h1>
+</header>
 <div class="splash-container">
   <div class="splash">
-    
+
     <h1>{{ .Params.heading }}<span class="fancy">.</span></h1>
     {{ if isset .Params "handle" }}
     <span class="handle">@{{ .Params.handle }}</span>

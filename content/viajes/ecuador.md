@@ -20,3 +20,5 @@ Guayaquil es conocida por el toque tan especial que le dan sus coloridas casas a
 Es extraño ver cómo este exótico animal campa a sus anchas por uno de los parques más famosos de Guayaquil, donde además se encuentra la Catedral Metropolitana de la ciudad. No exageramos al decir que en este lugar hay más de un centenar de iguanas, que están totalmente familiarizadas con los humanos, a las que no podrás dejar de sacar fotos desde todos los ángulos.
 
 Cómo llegar al Parque de las Iguanas: el nombre oficial de este parque es Seminario y se encuentra a tan solo unas cuadras del Malecón 2000, por lo que puedes llegar fácilmente caminando.
+
+{{< iframe2 >}}

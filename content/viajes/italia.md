@@ -24,3 +24,6 @@ Turismo principal
 Si queremos comenzar a dividir o segmentar el turismo que se realiza en Italia, pues comenzaremos con aquel turismo principal, ese que se realiza en ciudades como Roma, ciudad capital; Milán, capital de la moda; Florencia, capital del arte y la cultura, Venecia, la ciudad sumamente romántica.
 
 Estas ciudades reciben gran cantidad de visitas al año y conforman la lista de los lugares que más movimiento e ingresos tienen gracias al turismo, sea ya por su sofisticación, la gran publicidad que se les hace o bien por las características pariculares con las que cuenta cada ciudad, por lo que también pueden llegar a ser un tanto más costosas o demandar más tiempo para poder disfrutar de la totalidad de sus atractivos.
+
+
+{{< iframe2 >}}
