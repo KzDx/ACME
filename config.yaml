@@ -1,4 +1,4 @@
-baseURL : '/ACMEK'
+baseURL : /ACMEK
 languageCode : 'es-es'
 title : 'ACME-Jordan'
 theme : 'Codex'
