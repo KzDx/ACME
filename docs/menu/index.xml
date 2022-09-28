@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menus on ACME-Jordan</title>
+    <link>/ACMEK/menu/</link>
+    <description>Recent content in Menus on ACME-Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 23 Sep 2022 09:18:15 +0200</lastBuildDate><atom:link href="/ACMEK/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca de nuestras obras</title>
+      <link>/ACMEK/menu/acerca_de/</link>
+      <pubDate>Fri, 23 Sep 2022 09:18:15 +0200</pubDate>
+      
+      <guid>/ACMEK/menu/acerca_de/</guid>
+      <description>7 Maravillas del mundo
+Si bien ya no es posible visitar los Jardines Colgantes de Babilonia, el Faro de Alejandría, el Templo de Artemisa y otras Maravillas del Mundo Antiguo que el tiempo ha hecho desaparecer, otras nuevas maravillas esperan la llegada del viajero. Las lista de las Siete Maravillas del Mundo Moderno se compuso mediante gran votación planetaria promovida por la empresa New Open World Corporation en la que participaron 100 millones de personas.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/ACMEK/menu/contacto/</link>
+      <pubDate>Fri, 23 Sep 2022 09:10:09 +0200</pubDate>
+      
+      <guid>/ACMEK/menu/contacto/</guid>
+      <description>Copyright 282828Yo.contact@example.org&#34; Acme CorporationZaragoza
+**Lunes-Viernes** 9:00AM - 6:00PM</description>
+    </item>
+    
+  </channel>
+</rss>

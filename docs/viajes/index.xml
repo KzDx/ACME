@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on ACME-Jordan</title>
+    <link>/ACMEK/viajes/</link>
+    <description>Recent content in Viajes on ACME-Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 23 Sep 2022 12:17:42 +0200</lastBuildDate><atom:link href="/ACMEK/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viajar</title>
+      <link>/ACMEK/viajes/viajar/</link>
+      <pubDate>Fri, 23 Sep 2022 12:17:42 +0200</pubDate>
+      
+      <guid>/ACMEK/viajes/viajar/</guid>
+      <description> LUGARES A LOS QUE VIAJE
+Ecuador Francia Italia contact@example.org&#34; Acme CorporationZaragoza
+**Lunes-Viernes** 9:00AM - 6:00PM</description>
+    </item>
+    
+    <item>
+      <title>Italia</title>
+      <link>/ACMEK/viajes/italia/</link>
+      <pubDate>Fri, 23 Sep 2022 10:39:23 +0200</pubDate>
+      
+      <guid>/ACMEK/viajes/italia/</guid>
+      <description>ITALIA
+Italia es uno de los países preferidos para el turismo y las vacaciones de cualquier tipo. Para quienes aman el arte y la cultura les esperan miles de tesoros; los fanáticos del sol y la playa encontrarán a lo largo de toda la costa unas hermosas playas bien cuidadas y provistas de instalaciones turísticas y para aquellos a quienes les gusta escalar o los paseos por las montañas tendrán las zonas montañosas que pueden satisfacer sus expectativas con excursiones y toda la belleza de la naturaleza alpina.</description>
+    </item>
+    
+    <item>
+      <title>Ecuador</title>
+      <link>/ACMEK/viajes/ecuador/</link>
+      <pubDate>Fri, 23 Sep 2022 10:39:18 +0200</pubDate>
+      
+      <guid>/ACMEK/viajes/ecuador/</guid>
+      <description>ECUADOR
+Ecuador es todavía uno de esos destinos con recónditos lugares sin una gran acumulación de turistas y uno de esos sitios en los que puedes hacer absolutamente de todo: desde bañarte en las aguas del Pacífico a recorrer la selva Amazónica, bucear en las Islas Galápagos o conocer la “magia” de la Mitad del Mundo. Añade este país a tus próximas vacaciones y conoce los mejores lugares de Ecuador.</description>
+    </item>
+    
+    <item>
+      <title>Francia</title>
+      <link>/ACMEK/viajes/francia/</link>
+      <pubDate>Fri, 23 Sep 2022 10:39:04 +0200</pubDate>
+      
+      <guid>/ACMEK/viajes/francia/</guid>
+      <description>Francia
+París es una ciudad que parece diseñada para el disfrute del viajero. Sus calles, plazas, edificios, jardines y monumentos parecen ideados para que cualquier persona que visite París desee volver.
+Visitar la Torre Eiffel, el Arco del Triunfo o la Catedral de Notre Dame, acudir a un espectáculo de cabaret en el mítico Moulin Rouge, o bien pasear por algunos de los barrios más pintorescos de la ciudad como Montmartre o Montparnasse, son algunas de las experiencias que todo el mundo debería tener la ocasión de disfrutar.</description>
+    </item>
+    
+  </channel>
+</rss>
