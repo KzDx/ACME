@@ -9,7 +9,8 @@ lon: -8.9402411
 
 ## Mi viaje a las islas cíes
 
-{{< creaimagen "images/cies1.jpg" "Islas cies" >}}
 
 
-{{< figure src="images/cies1.jpg" title="Galicia" >}}
+
+    {{< creaimagen "images/cies1.jpg" "Islas cies" >}}
+    {{< figure src="images/cies1.jpg" title="Galicia" >}}

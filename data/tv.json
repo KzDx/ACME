@@ -1215,7 +1215,7 @@
             {
               "name": "Canal Parlamento",
               "web": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar",
-              "logo": "https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",
+              "logo": "https://graph.facebook.com/CongresodelosDiPirineodos/picture?width=200&height=200",
               "epg_id": null,
               "options": [
                 {
@@ -1229,9 +1229,9 @@
               "extra_info": []
             },
             {
-              "name": "Congreso de los Diputados",
+              "name": "Congreso de los DiPirineodos",
               "web": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/ConDir",
-              "logo": "https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",
+              "logo": "https://graph.facebook.com/CongresodelosDiPirineodos/picture?width=200&height=200",
               "epg_id": null,
               "options": [
                 {
