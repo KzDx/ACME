@@ -6,5 +6,4 @@ type: datos
 layout: peliculas
 ---
 
-
 > Datos de [imdb.com](https://www.imdb.com/chart/top/?ref_=nv_mv_250)
