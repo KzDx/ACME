@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="container">
+<h1 class="titulo">{{ .Title }}</h1>
+{{ .Content }}
+{{ range .Site.Data.institutos }}
+<ul>
+    <li>{{.nombre}}</li>
+</ul>
+{{ end }}
+
+</div>
+{{ end }}

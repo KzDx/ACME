@@ -1,0 +1,28 @@
+{{ define "main" }}
+<hr>
+{{ $ranking := getJSON "/data/datos_pelis.json" }}
+{{ range $ranking }}
+<a href="{{ .url }}">
+        <img src="{{ .img }}" alt="{{ .titulo }}" width="50">
+</a>
+{{ end }}
+<hr>
+<div class="container">
+
+        <h1 class="titulo">{{ .Title }}</h1>
+        {{ .Content }}
+
+        {{ range .Site.Data.datos_pelis }}
+        <b>
+                <img src="{{.img}}" alt="name">
+                {{.ranking}}.-
+                <b><a href="{{ .url}}" target="_blank">{{.name}}</a></b>
+                ⭐{{.rating}}
+        </b>
+        <hr>
+
+        {{ end }}
+
+</div>
+
+{{ end }}

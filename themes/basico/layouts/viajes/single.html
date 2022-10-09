@@ -1,0 +1,63 @@
+{{ define "morecss" }}
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css"
+   integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+   crossorigin=""/>
+
+<style>
+#map { height: 240px; }
+</style>
+{{ end }}
+
+
+{{ define "main" }}
+<div class="container">
+<h1 class="titulo">{{ .Title }}</h1>
+<hr>
+ <div id="map">
+ </div>
+ <h1>Previsualización de imagen</h1>
+ <hr>
+ <input type="file" id="seleccionArchivos" accept="image/*">
+ <hr>
+ <img id="imagenPrevisualizacion">
+ <script>
+   const $seleccionArchivos = document.querySelector("#seleccionArchivos"),
+     $imagenPrevisualizacion = document.querySelector("#imagenPrevisualizacion");
+
+   $seleccionArchivos.addEventListener("change", () => {
+     const archivos = $seleccionArchivos.files;
+     if (!archivos || !archivos.length) {
+       $imagenPrevisualizacion.src = "";
+       return;
+     }
+     const primerArchivo = archivos[0];
+     const objectURL = URL.createObjectURL(primerArchivo);
+     $imagenPrevisualizacion.src = objectURL;
+   });
+ </script>
+{{ .Content }}
+</div>
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js"
+   integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s="
+   crossorigin=""></script>
+ {{ end }}
+
+{{ define "morejs" }}
+<script>
+var map = L.map('map').setView([{{ .Params.lat }}, {{ .Params.lon }}], 13);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+L.marker([{{ .Params.lat }}, {{ .Params.lon }}
+]).addTo(map)
+    .bindPopup('{{ .Params.mensaje }}');
+    
+</script>
+{{ end }}
+
+
+
+
